@@ -1,9 +1,5 @@
 .DS_Store
 zig-out/
 .zig-cache
-libs/system-sdk/zig-cache
-libs/zglfw/zig-cache
-libs/zgpu/zig-cache
-libs/zgui/zig-cache
-libs/zpool/zig-cache
-libs/zstbi/zig-cache
+zig-cache
+
